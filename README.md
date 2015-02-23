@@ -1,6 +1,6 @@
-SassCI (Sassy)
+Sass CI 
 ==============
-A test matrix visualization for the various current Sass implementations.
+A test matrix generator for Sass implementations. 
 
 Generate data
 -------------
